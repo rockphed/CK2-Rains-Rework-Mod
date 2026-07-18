@@ -1,0 +1,25 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+EVTTITLE_HF_15124;Disaster in the Armory;;;;;;;;;;;;;x
+EVTDESC_HF_15124;Something feels wrong as you walk toward the armory.  Normally it is bustling as guards come and go.  Today there is a small crowd standing around silently.  You push your way through to see inside and a giant mess greets you.  A wall gave in, or the roof leaked, or ... it doesn't matter.  What can be done now?;;;;;;;;;;;;;x
+EVTOPTC_HF_15124;I can clean up this mess myself.  How hard can it be?;;;;;;;;;;;;;x
+EVTOPTD_HF_15124;I employ people to do this sort of thing.  Specifically, you.  Get to work!;;;;;;;;;;;;;x
+EVTOPTA_HF_15124;It's a big job.  Round up some workers to help you.;;;;;;;;;;;;;x
+EVTTITLE_HF_15123;Disaster in the Library;;;;;;;;;;;;;x
+EVTDESC_HF_15123;"I know just where we can-" The clerk cuts off with a screech as he turns the corner to the library. Inside you see piles of soaked books and rotting parchment. What a mess.;;;;;;;;;;;;;x
+EVTOPTC_HF_15123;I can clean up this mess myself.  How hard can it be?;;;;;;;;;;;;;x
+EVTOPTD_HF_15123;I employ people to do this sort of thing.  Specifically, you.  Get to work!;;;;;;;;;;;;;x
+EVTOPTA_HF_15123;It's a big job.  Round up some workers to help you.;;;;;;;;;;;;;x
+EVTTITLE_HF_15125;Drought Takes its Toll;;;;;;;;;;;;;x
+EVTDESC_HF_15123;"I know just where we can-" The clerk cuts off with a screech as he turns the corner to the library. Inside you see piles of soaked books and rotting parchment. What a mess.;;;;;;;;;;;;;x
+EVTOPTC_HF_15123;I can clean up this mess myself.  How hard can it be?;;;;;;;;;;;;;x
+EVTOPTD_HF_15123;I employ people to do this sort of thing.  Specifically, you.  Get to work!;;;;;;;;;;;;;x
+EVTOPTA_HF_15123;It's a big job.  Round up some workers to help you.;;;;;;;;;;;;;x
+
+EVTOPTA_HF_15111_new;Distribute food from stores for the people of [province_to_save.GetName];;;;;;;;;;;;;x
+EVOPTB_HF_15111_new;Gouge the populace of [province_to_save.GetName]!;;;;;;;;;;;;;x
+EVTOPTC_HF_15111_new;Import food to distribute in [province_to_save.GetName].;;;;;;;;;;;;;x
+
+opinion_assigned_drudgery;Assigned Drudgery;;;;;;;;;;;;;x
+EVTOPTE_HF_15111_TT;The people will be happy.;;;;;;;;;;;;;x
+EVTOPTE_HF_15111_new;Import Food To Feed The People;;;;;;;;;;;;;x
