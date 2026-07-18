@@ -1,0 +1,28 @@
+flooded_holding = {
+	levy_size = -0.25
+	fort_level = -.5
+	local_tax_modifier = -0.25
+	local_build_time_modifier = 0.15
+	icon = 130
+}
+
+treating_disease = {
+	disease_defence = 0.25
+	icon = 50
+}
+
+distribute_food_price_gouge = {
+	land_morale = 0.15
+	local_revolt_risk = 0.01
+	city_tax_modifier = 0.05
+	castle_tax_modifier = 0.05
+	temple_tax_modifier = 0.05
+	tribal_tax_modifier = 0.5
+	icon = 59
+}
+
+did_not_help_starving = {
+	land_morale = -0.15
+	local_revolt_risk = 0.1
+	icon = 60
+}
